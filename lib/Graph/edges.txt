@@ -1,0 +1,16 @@
+ParkirDepan;LabICT
+ParkirDepan;Pertigaan
+Pertigaan;BAAK
+Pertigaan;KolamIkan
+KolamIkan;GedungGSG
+KolamIkan;GedungA
+GedungGSG;GedungGSGLantai3
+GedungGSGLantai3;Lab1GSG
+GedungGSGLantai3;Lab2GSG
+GedungGSGLantai3;GedungGSGLantai4
+GedungGSGLantai4;Lab3GSG
+GedungGSGLantai4;Lab4GSG
+GedungA;GedungALantai3
+GedungALantai3;LabDigital
+GedungALantai3;Lab1A
+GedungALantai3;Lab2A
